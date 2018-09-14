@@ -1,0 +1,21 @@
+body {
+    background-color: aqua;
+}
+
+p {
+    font-size:36px;
+    text-align: center;
+}
+
+
+#title {
+    color: purple;
+}
+
+.hour{
+    color:blue;
+}
+
+.hourTitle{
+    font-weight: bold;
+}
